@@ -1,0 +1,3 @@
+ELB: http://applicationloadbalance-637902943.us-east-1.elb.amazonaws.com/
+Instance1: http://54.157.220.230/
+Instance2: http://18.232.131.29/
